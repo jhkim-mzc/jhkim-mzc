@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jhkim-mzc
+- 🏢 I'm working at Megazone Cloud as a Cloud Application Architect.
 - 👀 I’m interested in Spring framework, Servereless, MSA, etc..
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
